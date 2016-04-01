@@ -1,0 +1,49 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.footer {
+    margin: 50px 0;
+}
+
+#player_list {
+
+}
+
+.header {
+    height: 80px;
+    background: #010713 url(http://media.steampowered.com/apps/csgo/blog/images/wildfire_header_image.png?v=1002) no-repeat 50% 49%;
+    overflow: hidden;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+
+#article_title {
+    margin-top:0;
+}
+
+.flag {
+    width: 16px;
+    height: 11px;
+    background:url('../img/flags.png') no-repeat
+}
+
+.flag.flag-au {background-position: -16px 0}
+.flag.flag-be {background-position: -32px 0}
+.flag.flag-bg {background-position: -48px 0}
+.flag.flag-cz {background-position: -64px 0}
+.flag.flag-de {background-position: 0 -11px}
+.flag.flag-dk {background-position: -16px -11px}
+.flag.flag-england {background-position: -32px -11px}
+.flag.flag-fi {background-position: -48px -11px}
+.flag.flag-fr {background-position: -64px -11px}
+.flag.flag-gb {background-position: 0 -22px}
+.flag.flag-lu {background-position: -16px -22px}
+.flag.flag-nl {background-position: -32px -22px}
+.flag.flag-no {background-position: -48px -22px}
+.flag.flag-pl {background-position: -64px -22px}
+.flag.flag-scotland {background-position: 0 -33px}
+.flag.flag-se {background-position: -16px -33px}
+.flag.flag-sk {background-position: -32px -33px}
+.flag.flag-ua {background-position: -48px -33px}
+.flag.flag-us {background-position: -64px -33px}
